@@ -6,4 +6,6 @@ For making headers, you need to download a Header.PSD file template from here: h
 
 Next, go to photopea.com: https://www.photopea.com
 
+Make sure to crop the header size to fit the text.
+
 Then make the header and export as PNG!
