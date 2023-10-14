@@ -10,6 +10,10 @@
    - [FRA Website](#fra-website)
    - [FRA Map](#fra-map)
    - [Crossing Information](#crossing-information)
+ - [Inserting Photos Into MikeRXRTools](#inserting-photos-into-mikerxrtools)
+ - [Running MikeRXRTools](#running-mikerxrtools)
+   - [Railroad Logos](#railroad-logos)
+   - [Proccessing Photos Warning](#proccessing-photos-warning)
 
  ## Setup
 
@@ -74,9 +78,19 @@
 
  Next, go to photopea.com: https://www.photopea.com
 
- Make sure to crop the header size to fit the text.
+ Open the PSD file by clicking file, and then "Open" on the top left:
 
- Then make the header and export as PNG!
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/6a76b788-f8f9-4fd3-be5b-0e11aeb823ee)
+ You should see something like this.
+
+ Next, edit the text to fit the street name (Don't worry about the text changing size when it is edited).
+ 
+ Make sure to crop the header size to fit the text with the crop tool on the left side of the screen.
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/e2114bc5-839f-479c-b1ce-5bf1fdd160ba)
+
+ Then export as PNG with "File" and then "Export As"
+
+ And you have made the header!
 
  For more info on making headers, visit this: https://docs.google.com/document/d/1squEBHujx-LUVL1bXV-agknS0YGdyvKR/edit
 
@@ -152,4 +166,56 @@
 
  You can find all other info like the subdivision and associated railroads in the PDF file as well.
 
+ ## Inserting Photos Into MikeRXRTools
 
+ Also very straightfoward. Copy and paste your photos and [`header`](#making-crossing-headers) into each folder that it belongs in.
+
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/64f19cfc-ebf7-4941-bbc9-3989eed5909d)
+ 
+ For example, the header goes into the "Header" folder.
+
+ And for the relay case, it goes in the "Relay_Case" folder.
+
+ For all the northern signal photos, put them all into the "northern_signal" folder.
+
+ Once you have put all the photos in, it's time to run the program!
+
+ (Please do not rename or move any folders or scripts because this WILL break MikeRXRTools)
+
+ # Running MikeRXRTools
+
+ Double left click the "MikeRXRTools" Python script to run the program.
+
+ You will be asked questions that the program cannot find on its own at the current moment. Such as DOT number, street name, etc.
+
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/5df4a538-afa2-4753-a297-0b8a7869afcd)
+
+ There are a few tips and tutorials when the program is running which should help you when you get stuck.
+
+ ## Railroad Logos
+
+ You will eventually reach this prompt:
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/39f776b3-68e9-4cef-9d47-f72f3fd3e01f)
+
+ You will need to get the rail logos from the site, which can be found here: http://www.rxrsignals.com/Graphics/Rail_Logos/
+
+ Use CTRL+F to find the railroads you need, then paste the full file name into the answer input.
+
+ Example:
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/6c0b2a7e-b701-4277-a43a-5fd448ec2eec)
+
+ MikeRXRTools allows for multiple railroads as well.
+
+ ## Processing Photos Warning
+
+ Do not worry if you see a yellow warning.
+
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/d0df7b17-767b-41ff-96ab-93fdbe376da4)
+
+ This is the final test for the program basically. 
+ 
+ I recommend having your photos in a backup folder in case if something crashes the program or if there is a bug that also crashes the program.
+
+ If you are ready, press ENTER twice to proceed.
+
+ Proccessing should take less than 15 seconds.
