@@ -4,10 +4,8 @@
 
  - [Setup](#setup)
  - [Making Crossing Pages](#making-crossing-pages)
- - [Usage](#usage)
-  - [Process and Upload](#process-and-upload)
-  - [Process](#process)
-  - [Upload](#upload)
+ - [Making Crossing Headers](#making-crossing-headers)
+ - [Finding Crossing Street Name and City](#finding-crossing-street-name-and-city)
 
  ## Setup
 
@@ -20,10 +18,6 @@
  MAKE SURE TO SPECIFICALLY DOWNLOAD "Windows installer (64-bit)" FOR VERSIONS 3.12.0 OR ABOVE OR PILLOW WILL NOT INSTALL!
 
  ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/024aa05b-6fb8-4cfe-920d-b102bbd0a6f0)
-
-
-
-
 
  2. Next, download the MikeRXRTools "Source code (Zip)" from the releases tab on the right. 
 
