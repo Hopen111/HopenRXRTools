@@ -6,6 +6,10 @@
  - [Making Crossing Pages](#making-crossing-pages)
  - [Making Crossing Headers](#making-crossing-headers)
  - [Finding Crossing Street Name and City](#finding-crossing-street-name-and-city)
+ - [Getting DOT Number, Milepost, Railroads, Accident Count, and Daily Trains](#getting-dot-number-milepost-railroads-accident-count-and-daily-trains)
+   - [FRA Website](#fra-website)
+   - [FRA Map](#fra-map)
+   - [Crossing Information](#crossing-information)
 
  ## Setup
 
@@ -60,20 +64,92 @@
 
  First, you will need to get some crossing photos, supported file types are: PNG, JPG, JEPG, and possibly a few more (HEIC WILL NOT WORK).
 
- Next, you have to get the basic crossing info such as street and city name, DOT, milepost, associated railroads, and the date the photos were taken, which will all be explained below!
+ Next, you have to get the basic crossing info such as street and city name, DOT, milepost, accidents, associated railroads, daily trains, and the date the photos were taken, which will all be explained below!
 
  ## Making Crossing Headers
 
-For making headers, you need to download a Header.PSD file template from here: https://drive.google.com/drive/folders/1URC-K7prmxNuoZrVuk6MTQeQu3_K3gDW
+ You will need to make a header since the program cannot make one at the current moment.
 
-Next, go to photopea.com: https://www.photopea.com
+ For making headers, you need to download a Header.PSD file template from here: https://drive.google.com/drive/folders/1URC-K7prmxNuoZrVuk6MTQeQu3_K3gDW
 
-Make sure to crop the header size to fit the text.
+ Next, go to photopea.com: https://www.photopea.com
 
-Then make the header and export as PNG!
+ Make sure to crop the header size to fit the text.
 
-For more info on making headers, visit this: https://docs.google.com/document/d/1squEBHujx-LUVL1bXV-agknS0YGdyvKR/edit
+ Then make the header and export as PNG!
+
+ For more info on making headers, visit this: https://docs.google.com/document/d/1squEBHujx-LUVL1bXV-agknS0YGdyvKR/edit
 
  ## Finding Crossing Street Name and City
 
  You can use Google Maps or any accurate mapping service to find the street and city name. 
+
+ We will be using J St SW in Cedar Rapids IA as an example.
+
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/ab80d7ec-23eb-46c5-b178-89bad70e8cfa)
+
+ # Getting DOT Number, Milepost, Railroads, Accident Count, and Daily Trains
+
+ Getting the DOT number and the Milepost number is straightfoward with the correct instructions. There are two methods you can use.
+
+ ## FRA Website
+
+ If you have a photo of the DOT number tag at the crossing (Like This).
+
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/5150402d-be04-48d6-bb65-3bc847c11b71)
+
+ You can go to this website to get the milepost, railroad, and accident count with this website: https://safetydata.fra.dot.gov/OfficeofSafety/PublicSite/Crossing/Crossing.aspx
+
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/055b303c-8796-48d5-a840-d07febe6173d)
+
+ Once you have typed the DOT number in, you can then download a PDF of both accidents and all crossing info that you need located in "inventory" and "accident".
+
+ ## FRA Map
+
+ If you don't have your crossing DOT number, you can still get the same results by using an interactive map from the FRA: https://fragis.fra.dot.gov/gisfrasafety/
+
+ You should get a map that looks like this:
+
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/4b053096-0c3d-47a1-8795-0bb7c159be84)
+
+ You can find your crossing by typing in its coardinates in the search bar with the help of Google Maps or by zooming in and finding your crossing on the map.
+
+ Here is J St SW on the FRA map:
+
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/6018a5d0-893e-4c87-9557-491d5e816cd0)
+
+ You can find the DOT number and milepost when you left click the orange dot.
+
+ To expand the info menu, click this button here:
+
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/5cdfac01-62fe-468a-8731-ed2295625ffc)
+
+ You can find some of the info you need such as the DOT number, milepost, railroad owner, and the railroad subdivision on the info menu:
+
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/74dd5686-60d6-4357-8822-d2700eca6f4b)
+
+ However it does not show the amount of accidents or trains per day. 
+ 
+ At the bottom of the info menu, you can download both the accident count PDF and crossing inventory PDF here:
+
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/874c31b5-370f-4d2f-9cef-8214c778681f)
+
+ ## Crossing Information
+
+ Its very easy to get the info from both PDF files. 
+
+ The accident PDF file has one page per accident, this means that since this crossing has 6 pages, there have been 6 accidents at this crossing (Yikes!)
+
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/1437f4c2-533f-4767-8627-3459c1de0b56)
+
+ The crossing inventory PDF is a little more complicated but still easy to find what you need with CTRL+F.
+
+ Under "Part II: Railroad Information" or with CTRL+F "Daily", is the location of the daily train count:
+
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/9575671c-afa5-4057-9196-6b2a00200635)
+
+ Combining all numbers together, this crossing has 35 trains per day as of 2019.
+
+ You can find all other info like the subdivision and associated railroads in the PDF file as well.
+
+
