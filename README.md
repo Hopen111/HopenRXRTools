@@ -13,13 +13,14 @@
 
  MikeRXRTools will run on Windows 10 and 11 computers.
 
- 1. First, download Python 3.0 from the offical python website: https://www.python.org/downloads/windows/
+1. First, download Python 3.0 from the offical python website: https://www.python.org/downloads/windows/
 
  MAKE SURE TO SPECIFICALLY DOWNLOAD "Windows installer (64-bit)" FOR VERSIONS 3.12.0 OR ABOVE OR PILLOW WILL NOT INSTALL!
 
- ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/024aa05b-6fb8-4cfe-920d-b102bbd0a6f0)
+![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/53b5b10a-e91b-42a1-8acd-6f31522cd2ed)
 
- 2. Next, download the MikeRXRTools "Source code (Zip)" from the releases tab on the right. 
+
+2. Next, download the MikeRXRTools "Source code (Zip)" from the releases tab on the right. 
 
  ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/70a08f8d-6861-49cb-ba3c-faa9c9155dcc)
  
@@ -27,14 +28,14 @@
 
 
 
- 3. Once downloaded, extract the folder.
+3. Once downloaded, extract the folder.
 
     
  ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/8e1888be-b843-4cc6-ba87-2120efad02a6)
 
  ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/8a8aca43-f2e7-4849-a21d-b7ea0757337a)
 
- 4. Check if Python installed correctly by running a script in the MikeRXRTools folder called "Empty Temporary Folder Junk"
+4. Check if Python installed correctly by running a script in the MikeRXRTools folder called "Empty Temporary Folder Junk"
 
 ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/7f6c6363-7ec3-475e-b6ca-cc0b51ed5b0c)
 
