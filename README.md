@@ -1,5 +1,14 @@
  # Using MikeRXRTools
 
+ ## Chapters
+
+ - [Setup](#setup)
+ - [Making Crossing Pages](#making-crossing-pages)
+ - [Usage](#usage)
+  - [Process and Upload](#process-and-upload)
+  - [Process](#process)
+  - [Upload](#upload)
+
  ## Setup
 
  In order for MikeRXRTools to run, it requires the Python Engine and the Pillow Module for photo editing.
@@ -70,6 +79,6 @@ Then make the header and export as PNG!
 
 For more info on making headers, visit this: https://docs.google.com/document/d/1squEBHujx-LUVL1bXV-agknS0YGdyvKR/edit
 
- ##Finding Crossing Street Name and City
+ ## Finding Crossing Street Name and City
 
  You can use Google Maps or any accurate mapping service to find the street and city name. 
