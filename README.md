@@ -50,6 +50,14 @@
 
  Now, you are done!
 
+ ## Making Crossing Pages
+
+ Since we have already set up the program (Hopefully), now we can begin making crossing pages!
+
+ First, you will need to get some crossing photos, supported file types are: PNG, JPG, JEPG, and possibly a few more (HEIC WILL NOT WORK).
+
+ Next, you have to get the basic crossing info such as street and city name, DOT, milepost, associated railroads, and the date the photos were taken, which will all be explained below!
+
  ## Making Crossing Headers
 
 For making headers, you need to download a Header.PSD file template from here: https://drive.google.com/drive/folders/1URC-K7prmxNuoZrVuk6MTQeQu3_K3gDW
@@ -61,3 +69,7 @@ Make sure to crop the header size to fit the text.
 Then make the header and export as PNG!
 
 For more info on making headers, visit this: https://docs.google.com/document/d/1squEBHujx-LUVL1bXV-agknS0YGdyvKR/edit
+
+ ##Finding Crossing Street Name and City
+
+ You can use Google Maps or any accurate mapping service to find the street and city name. 
