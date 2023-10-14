@@ -21,6 +21,7 @@
    - [Videos](#videos)
    - [Crossing Info Table](#crossing-info-table)
  - [KompoZer](#kompozer)
+   - [Fixing Typos and Other Small Edits](#fixing-typos-and-other-small-edits)
 
  ## Setup
 
@@ -315,6 +316,29 @@
 
  ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/4b4ccd03-1a87-4abf-8aba-9bd9933bcaaa)
 
- # KompoZer
+ Your finished page will appear in the "Output" folder.
 
  
+
+ The workflow should get faster as you get the hang of it. I was able to make one page with MikeRXRTools every 10 minutes, much better than the 2 hours I was able to do before!
+
+ # KompoZer
+
+ If you want to fix any typos or remove the crossing table, you can download KompoZer: https://kompozer-web-authoring.en.lo4d.com/windows
+
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/34a67444-437b-481f-b671-c514b0ccc4e1)
+
+ KompoZer is an HTML editor that can be used even without knowledge of HTML.
+
+ ## Fixing Typos and Other Small Edits
+
+ First, open the HTMl file from the page you made in the "Output" folder with "FILE, OPEN FILE".
+
+ You should get some warnings or something. Just keep pressing OK until they go away.
+
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/b1151e76-75fa-4266-a3fe-4c92cd2b420c)
+
+ It should look something like this when opened.
+
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/f36c40d9-47d2-4d56-8a84-d89d988f909e)
+
