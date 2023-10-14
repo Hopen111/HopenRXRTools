@@ -14,6 +14,13 @@
  - [Running MikeRXRTools](#running-mikerxrtools)
    - [Railroad Logos](#railroad-logos)
    - [Proccessing Photos Warning](#proccessing-photos-warning)
+   - [Track Views](#track-views)
+   - [Track View Link](#track-view-link)
+   - [Photo Information](#photo-information)
+   - [Subdivision](#subdivision)
+   - [Videos](#videos)
+   - [Crossing Info Table](#crossing-info-table)
+ - [KompoZer](#kompozer)
 
  ## Setup
 
@@ -81,6 +88,7 @@
  Open the PSD file by clicking file, and then "Open" on the top left:
 
  ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/6a76b788-f8f9-4fd3-be5b-0e11aeb823ee)
+ 
  You should see something like this.
 
  Next, edit the text to fit the street name (Don't worry about the text changing size when it is edited).
@@ -202,6 +210,7 @@
  Use CTRL+F to find the railroads you need, then paste the full file name into the answer input.
 
  Example:
+ 
  ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/6c0b2a7e-b701-4277-a43a-5fd448ec2eec)
 
  MikeRXRTools allows for multiple railroads as well.
@@ -219,3 +228,93 @@
  If you are ready, press ENTER twice to proceed.
 
  Proccessing should take less than 15 seconds.
+
+ ## Track Views
+
+ You should see something like this if everything went well:
+
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/c38f1086-160a-4ed1-9876-c989bd65e5bc)
+
+ Next you can use Google Maps or another accurate mapping software to find the next crossing down the track. 
+
+ To the west of J St SW is SW 26th St. 
+
+ As an example I will leave the facing east blank and then press ENTER to show the result for if you want to skip this part.
+
+ ## Track View Link
+
+ Here is the 1st hard part. Making a link for the next crossing over. 
+
+ If the crossing to the west or east already exists, then you can use that!
+
+ However it most likely won't.
+
+ However link rules are simple:
+
+ https://www.rxrsignals.com/STATE/A-F/CITY/STREET/
+
+ Captiallized words are words that are inputs that change.
+
+ For example, normally 26th St SW would be:
+
+ https://www.rxrsignals.com/Iowa/A-F/Cedar_Rapids/26(1)/
+
+ If there are multiple crossings, "26" must be followed by "(1)".
+
+ Luckily for me, this crossing has a link to it to the west: http://www.rxrsignals.com/Iowa/A-K/Cedar_Rapids/0/26(3)/
+
+ We can easily paste it in.
+
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/6eab67da-f789-43aa-999b-54dce8be682f)
+
+ Repeat for the other side.
+
+ ## Photo Information
+
+ You will be asked for when the photos were taken. There are no abbreviations available on this question unlike the page creation date a few questions above near the begining.
+
+ You must type in something like these examples:
+
+ March 29, 2023
+ October 30, 2023
+ January 5, 2024
+
+ On the next question, just input your username.
+
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/f9e55a05-ef3c-430f-80d7-9d2f3e9cbbc2)
+
+ Do the same thing for the creator name, since you created the page.
+
+ ## Subdivision
+
+ Pretty simple. Answer with the full subdivision name like this:
+
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/6bdd2390-03f7-4a68-a6e5-319a98592ee2)
+
+ You can find the subdivision name in the [`crossing inventory PDF file`](#getting-dot-number-milepost-railroads-accident-count-and-daily-trains).
+
+ ## Videos
+
+ If there is a Youtube video you have recorded, paste the link in and then press ENTER.
+
+ It will ask for a 2nd video, keep inputing as many videos as needed until you are finished, then press ENTER leaving it blank.
+
+ ## Crossing Info Table
+
+ This is the hardest part. You must use your photos or Google Street View to find the crossing parts that make up this crossing. 
+
+ You may use the /102/ page on the site to guide you: http://www.rxrsignals.com/102/
+
+ Some examples are listed when the program is running.
+
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/9f44160b-b1f2-4cee-82ec-e8d5031b12fe)
+
+ If there is no cantilever or gate on all the signals, leave the answer input empty and press ENTER instead of typing "None" and the table will not include the cantilever or gate.
+
+ Once the program tells you that it has not crashed, you are done!
+
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/4b4ccd03-1a87-4abf-8aba-9bd9933bcaaa)
+
+ # KompoZer
+
+ 
