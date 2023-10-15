@@ -389,6 +389,8 @@
 
  Right click the text box on the left. Then click "Join With Cell To The Right"
 
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/cd3cd1f1-351e-4550-95c3-819fe793301b)
+
  Then delete the extra text from the right cell.
 
  ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/a1db2245-8dbb-45fe-b4be-e48537bcae2c)
