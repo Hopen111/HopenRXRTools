@@ -37,7 +37,7 @@
 ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/53b5b10a-e91b-42a1-8acd-6f31522cd2ed)
 
 
-2. Next, download the MikeRXRTools "Source code (Zip)" from the releases tab on the right. 
+2. Next, download the MikeRXRTools "Source code (Zip)" from the [releases](https://github.com/Hopen111/MikeRXRTools/releases) tab on the right.
 
  ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/70a08f8d-6861-49cb-ba3c-faa9c9155dcc)
  
