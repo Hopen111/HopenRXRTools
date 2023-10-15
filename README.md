@@ -22,6 +22,7 @@
    - [Crossing Info Table](#crossing-info-table)
  - [KompoZer](#kompozer)
    - [Fixing Typos and Other Small Edits](#fixing-typos-and-other-small-edits)
+   - [Rearranging and Moving Photos](#rearranging-and-moving-photos)
 
  ## Setup
 
@@ -242,6 +243,10 @@
 
  As an example I will leave the facing east blank and then press ENTER to show the result for if you want to skip this part.
 
+ To the left is the track view with both street name and link, and to the right is without both.
+
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/e5528e53-8a38-46e3-936f-2d7fc301d37c)
+
  ## Track View Link
 
  Here is the 1st hard part. Making a link for the next crossing over. 
@@ -272,7 +277,7 @@
 
  ## Photo Information
 
- You will be asked for when the photos were taken. There are no abbreviations available on this question unlike the page creation date a few questions above near the begining.
+ You will be asked for when the photos were taken. There are no abbreviations available on this question unlike the page creation date a few questions above near the beginning.
 
  You must type in something like these examples:
 
@@ -312,13 +317,19 @@
 
  If there is no cantilever or gate on all the signals, leave the answer input empty and press ENTER instead of typing "None" and the table will not include the cantilever or gate.
 
+ if you want to type: 
+
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/c7929f37-298c-4809-b562-e38e00c35ad0)
+
+ Then instead of pressing SHIFT+ENTER (Which just brings you to the next question),
+
+ Type ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/1a0e5a31-68f9-4e5a-807a-a7a82d808f37) which seperates the line!
+
  Once the program tells you that it has not crashed, you are done!
 
  ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/4b4ccd03-1a87-4abf-8aba-9bd9933bcaaa)
 
  Your finished page will appear in the "Output" folder.
-
- 
 
  The workflow should get faster as you get the hang of it. I was able to make one page with MikeRXRTools every 10 minutes, much better than the 2 hours I was able to do before!
 
@@ -329,6 +340,8 @@
  ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/34a67444-437b-481f-b671-c514b0ccc4e1)
 
  KompoZer is an HTML editor that can be used even without knowledge of HTML.
+
+ It hasn't been updated in many years and will only download in a 32 bit executable. So this method might become obsolete in the future.
 
  ## Fixing Typos and Other Small Edits
 
@@ -341,4 +354,51 @@
  It should look something like this when opened.
 
  ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/f36c40d9-47d2-4d56-8a84-d89d988f909e)
+
+ Now we can begin fixing some typos and adding some extra info.
+
+ You can edit text by left clicking. 
+
+ Now we can fix any typos that were created an add extra info.
+
+ In this case, we can fix the typo under "Northern Signal Lights".
+
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/ad5861c3-c72d-4ba7-acde-2804d6bf369d)
+
+ ## Rearranging and Moving Photos
+
+ This is a little complicated but very possible.
+
+ We are going to swap photo 18 with photo 19:
+
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/5de3e579-baf7-410d-9e2d-d42a5530d9fe)
+
+ First, we will rename each photo. Photo 18 will be renamed to 19, and vice versa.
+
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/3a89b2fd-0fe1-4a36-ba48-9ec658504968)
+
+ After the images are renamed, you can reload the images by going to "FILE", then "RELOAD IMAGES"
+
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/efdbfadc-bd4e-4d54-8128-be13966c5bc0)
+
+ Let's change track view facing south to track view facing east and track view facing east to track view facing west.
+
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/5990a10c-2f6d-4659-bedf-916985dffb08)
+
+ Now let's merge both text headers on the right (Because both are track views facing west).
+
+ Right click the text box on the left. Then click "Join With Cell To The Right"
+
+ Then delete the extra text from the right cell.
+
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/a1db2245-8dbb-45fe-b4be-e48537bcae2c)
+
+ ![image](https://github.com/Hopen111/MikeRXRTools/assets/147209436/46d884db-bd37-40f9-a0e6-f3a7df002bef)
+
+ And now, we have moved the images!
+
+
+
+
+ 
 
