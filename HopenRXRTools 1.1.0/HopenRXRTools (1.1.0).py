@@ -481,7 +481,9 @@ for f in allTfiles:
     filename = f
     if f[0] == "T": 
       image = Image.open('Output/'+fullname+"/"+filename)
-      image.thumbnail((160, 160))
+      image.thumbnail((214, 214))
+      if image.size[1] != 120:
+          image.thumbnail((160, 160))
       image.save('Output/'+fullname+"/"+filename)
 
 theinput = streetviewcount #Number of photos
@@ -689,7 +691,9 @@ for f in allTfiles:
     filename = f
     if f[0] == "T": 
       image = Image.open('Output/'+fullname+"/"+filename)
-      image.thumbnail((160, 160))
+      image.thumbnail((214, 214))
+      if image.size[1] != 120:
+          image.thumbnail((160, 160))
       image.save('Output/'+fullname+"/"+filename)
 
 
@@ -730,7 +734,9 @@ for f in allTfiles:
     filename = f
     if f[0] == "T": 
       image = Image.open('Output/'+fullname+"/"+filename)
-      image.thumbnail((160, 160))
+      image.thumbnail((214, 214))
+      if image.size[1] != 120:
+          image.thumbnail((160, 160))
       image.save('Output/'+fullname+"/"+filename)
 
 #Sorted Facing South Photo
@@ -770,7 +776,9 @@ for f in allTfiles:
     filename = f
     if f[0] == "T": 
       image = Image.open('Output/'+fullname+"/"+filename)
-      image.thumbnail((160, 160))
+      image.thumbnail((214, 214))
+      if image.size[1] != 120:
+          image.thumbnail((160, 160))
       image.save('Output/'+fullname+"/"+filename)
 
 #Sorted Facing East Photo
@@ -810,7 +818,9 @@ for f in allTfiles:
     filename = f
     if f[0] == "T": 
       image = Image.open('Output/'+fullname+"/"+filename)
-      image.thumbnail((160, 160))
+      image.thumbnail((214, 214))
+      if image.size[1] != 120:
+          image.thumbnail((160, 160))
       image.save('Output/'+fullname+"/"+filename)
 
 #Sorted Facing West Photo
@@ -895,7 +905,9 @@ for f in allTfiles:
     filename = f
     if f[0] == "T": 
       image = Image.open('Output/'+fullname+"/"+filename)
-      image.thumbnail((160, 160))
+      image.thumbnail((214, 214))
+      if image.size[1] != 120:
+          image.thumbnail((160, 160))
       image.save('Output/'+fullname+"/"+filename)
 
 theinput = northernsignalcount #Number of photos
@@ -1100,7 +1112,9 @@ for f in allTfiles:
     filename = f
     if f[0] == "T": 
       image = Image.open('Output/'+fullname+"/"+filename)
-      image.thumbnail((160, 160))
+      image.thumbnail((214, 214))
+      if image.size[1] != 120:
+          image.thumbnail((160, 160))
       image.save('Output/'+fullname+"/"+filename)
 
 theinput = southernsignalcount #Number of photos
@@ -1304,7 +1318,9 @@ for f in allTfiles:
     filename = f
     if f[0] == "T": 
       image = Image.open('Output/'+fullname+"/"+filename)
-      image.thumbnail((160, 160))
+      image.thumbnail((214, 214))
+      if image.size[1] != 120:
+          image.thumbnail((160, 160))
       image.save('Output/'+fullname+"/"+filename)
 
 theinput = easternsignalcount #Number of photos
@@ -1508,7 +1524,9 @@ for f in allTfiles:
     filename = f
     if f[0] == "T": 
       image = Image.open('Output/'+fullname+"/"+filename)
-      image.thumbnail((160, 160))
+      image.thumbnail((214, 214))
+      if image.size[1] != 120:
+          image.thumbnail((160, 160))
       image.save('Output/'+fullname+"/"+filename)
 
 theinput = westernsignalcount #Number of photos
@@ -1723,7 +1741,9 @@ for f in allTfiles:
     filename = f
     if f[0] == "T": 
       image = Image.open('Output/'+fullname+"/"+filename)
-      image.thumbnail((160, 160))
+      image.thumbnail((214, 214))
+      if image.size[1] != 120:
+          image.thumbnail((160, 160))
       image.save('Output/'+fullname+"/"+filename)
 
 
@@ -1764,7 +1784,9 @@ for f in allTfiles:
     filename = f
     if f[0] == "T": 
       image = Image.open('Output/'+fullname+"/"+filename)
-      image.thumbnail((160, 160))
+      image.thumbnail((214, 214))
+      if image.size[1] != 120:
+          image.thumbnail((160, 160))
       image.save('Output/'+fullname+"/"+filename)
 
 #Sorted Facing South Track Photo
@@ -1854,7 +1876,9 @@ for f in allTfiles:
     filename = f
     if f[0] == "T": 
       image = Image.open('Output/'+fullname+"/"+filename)
-      image.thumbnail((160, 160))
+      image.thumbnail((214, 214))
+      if image.size[1] != 120:
+          image.thumbnail((160, 160))
       image.save('Output/'+fullname+"/"+filename)
 
 
@@ -1895,7 +1919,9 @@ for f in allTfiles:
     filename = f
     if f[0] == "T": 
       image = Image.open('Output/'+fullname+"/"+filename)
-      image.thumbnail((160, 160))
+      image.thumbnail((214, 214))
+      if image.size[1] != 120:
+          image.thumbnail((160, 160))
       image.save('Output/'+fullname+"/"+filename)
 
 #Sorted Facing South Track Photo
@@ -1935,7 +1961,9 @@ for f in allTfiles:
     filename = f
     if f[0] == "T": 
       image = Image.open('Output/'+fullname+"/"+filename)
-      image.thumbnail((160, 160))
+      image.thumbnail((214, 214))
+      if image.size[1] != 120:
+          image.thumbnail((160, 160))
       image.save('Output/'+fullname+"/"+filename)
 
 #Sorted Facing East Track Photo
@@ -1975,7 +2003,9 @@ for f in allTfiles:
     filename = f
     if f[0] == "T": 
       image = Image.open('Output/'+fullname+"/"+filename)
-      image.thumbnail((160, 160))
+      image.thumbnail((214, 214))
+      if image.size[1] != 120:
+          image.thumbnail((160, 160))
       image.save('Output/'+fullname+"/"+filename)
 
 #Sorted Facing West Track Photo
