@@ -482,7 +482,7 @@ for f in allTfiles:
     if f[0] == "T": 
       image = Image.open('Output/'+fullname+"/"+filename)
       image.thumbnail((214, 214))
-      if image.size[1] != 120:
+      if image.size[1] != 120 and image.size[0] != 120:
           image.thumbnail((160, 160))
       image.save('Output/'+fullname+"/"+filename)
 
@@ -692,7 +692,7 @@ for f in allTfiles:
     if f[0] == "T": 
       image = Image.open('Output/'+fullname+"/"+filename)
       image.thumbnail((214, 214))
-      if image.size[1] != 120:
+      if image.size[1] != 120 and image.size[0] != 120:
           image.thumbnail((160, 160))
       image.save('Output/'+fullname+"/"+filename)
 
@@ -735,7 +735,7 @@ for f in allTfiles:
     if f[0] == "T": 
       image = Image.open('Output/'+fullname+"/"+filename)
       image.thumbnail((214, 214))
-      if image.size[1] != 120:
+      if image.size[1] != 120 and image.size[0] != 120:
           image.thumbnail((160, 160))
       image.save('Output/'+fullname+"/"+filename)
 
@@ -777,7 +777,7 @@ for f in allTfiles:
     if f[0] == "T": 
       image = Image.open('Output/'+fullname+"/"+filename)
       image.thumbnail((214, 214))
-      if image.size[1] != 120:
+      if image.size[1] != 120 and image.size[0] != 120:
           image.thumbnail((160, 160))
       image.save('Output/'+fullname+"/"+filename)
 
@@ -819,7 +819,7 @@ for f in allTfiles:
     if f[0] == "T": 
       image = Image.open('Output/'+fullname+"/"+filename)
       image.thumbnail((214, 214))
-      if image.size[1] != 120:
+      if image.size[1] != 120 and image.size[0] != 120:
           image.thumbnail((160, 160))
       image.save('Output/'+fullname+"/"+filename)
 
@@ -906,7 +906,7 @@ for f in allTfiles:
     if f[0] == "T": 
       image = Image.open('Output/'+fullname+"/"+filename)
       image.thumbnail((214, 214))
-      if image.size[1] != 120:
+      if image.size[1] != 120 and image.size[0] != 120:
           image.thumbnail((160, 160))
       image.save('Output/'+fullname+"/"+filename)
 
@@ -1113,7 +1113,7 @@ for f in allTfiles:
     if f[0] == "T": 
       image = Image.open('Output/'+fullname+"/"+filename)
       image.thumbnail((214, 214))
-      if image.size[1] != 120:
+      if image.size[1] != 120 and image.size[0] != 120:
           image.thumbnail((160, 160))
       image.save('Output/'+fullname+"/"+filename)
 
@@ -1319,7 +1319,7 @@ for f in allTfiles:
     if f[0] == "T": 
       image = Image.open('Output/'+fullname+"/"+filename)
       image.thumbnail((214, 214))
-      if image.size[1] != 120:
+      if image.size[1] != 120 and image.size[0] != 120:
           image.thumbnail((160, 160))
       image.save('Output/'+fullname+"/"+filename)
 
@@ -1525,7 +1525,7 @@ for f in allTfiles:
     if f[0] == "T": 
       image = Image.open('Output/'+fullname+"/"+filename)
       image.thumbnail((214, 214))
-      if image.size[1] != 120:
+      if image.size[1] != 120 and image.size[0] != 120:
           image.thumbnail((160, 160))
       image.save('Output/'+fullname+"/"+filename)
 
@@ -1742,7 +1742,7 @@ for f in allTfiles:
     if f[0] == "T": 
       image = Image.open('Output/'+fullname+"/"+filename)
       image.thumbnail((214, 214))
-      if image.size[1] != 120:
+      if image.size[1] != 120 and image.size[0] != 120:
           image.thumbnail((160, 160))
       image.save('Output/'+fullname+"/"+filename)
 
@@ -1785,7 +1785,7 @@ for f in allTfiles:
     if f[0] == "T": 
       image = Image.open('Output/'+fullname+"/"+filename)
       image.thumbnail((214, 214))
-      if image.size[1] != 120:
+      if image.size[1] != 120 and image.size[0] != 120:
           image.thumbnail((160, 160))
       image.save('Output/'+fullname+"/"+filename)
 
@@ -1877,7 +1877,7 @@ for f in allTfiles:
     if f[0] == "T": 
       image = Image.open('Output/'+fullname+"/"+filename)
       image.thumbnail((214, 214))
-      if image.size[1] != 120:
+      if image.size[1] != 120 and image.size[0] != 120:
           image.thumbnail((160, 160))
       image.save('Output/'+fullname+"/"+filename)
 
@@ -1920,7 +1920,7 @@ for f in allTfiles:
     if f[0] == "T": 
       image = Image.open('Output/'+fullname+"/"+filename)
       image.thumbnail((214, 214))
-      if image.size[1] != 120:
+      if image.size[1] != 120 and image.size[0] != 120:
           image.thumbnail((160, 160))
       image.save('Output/'+fullname+"/"+filename)
 
@@ -1962,7 +1962,7 @@ for f in allTfiles:
     if f[0] == "T": 
       image = Image.open('Output/'+fullname+"/"+filename)
       image.thumbnail((214, 214))
-      if image.size[1] != 120:
+      if image.size[1] != 120 and image.size[0] != 120:
           image.thumbnail((160, 160))
       image.save('Output/'+fullname+"/"+filename)
 
@@ -2004,7 +2004,7 @@ for f in allTfiles:
     if f[0] == "T": 
       image = Image.open('Output/'+fullname+"/"+filename)
       image.thumbnail((214, 214))
-      if image.size[1] != 120:
+      if image.size[1] != 120 and image.size[0] != 120:
           image.thumbnail((160, 160))
       image.save('Output/'+fullname+"/"+filename)
 
