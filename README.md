@@ -50,16 +50,16 @@
     
  ![image](https://github.com/Hopen111/HopenRXRTools/assets/147209436/0451deec-00de-428d-8643-c885ff32bd9f)
 
- ![image](https://github.com/Hopen111/HopenRXRTools/assets/147209436/8a8aca43-f2e7-4849-a21d-b7ea0757337a)
+ ![image](https://github.com/Hopen111/HopenRXRTools/assets/147209436/b6b54ee2-d3b6-49be-95cb-7ab97945dfc4)
 
 4. Check if Python installed correctly by running a script in the HopenRXRTools folder called "Empty Temporary Folder Junk"
 
-![image](https://github.com/Hopen111/HopenRXRTools/assets/147209436/7f6c6363-7ec3-475e-b6ca-cc0b51ed5b0c)
+ ![image](https://github.com/Hopen111/HopenRXRTools/assets/147209436/0eb533ba-e98c-4926-8803-d2087a4e0785)
 
 
  You should be able to easily run Python scripts by double left clicking. 
 
- This will remove some temporary "junk" .txt files from all folders (This exists so GitHub will allow me to upload empty folders)
+ This will remove some temporary "junk" .txt files from all folders (They exist so GitHub will allow me to upload empty folders)
 
  If you open the folders and the junk .txt files are removed, this means Python has installed correctly!
 
@@ -99,6 +99,8 @@
  ![image](https://github.com/Hopen111/HopenRXRTools/assets/147209436/e2114bc5-839f-479c-b1ce-5bf1fdd160ba)
 
  Then export as PNG with "File" and then "Export As"
+
+ Drag the header from downloads to the "Header" folder.
 
  And you have made the header!
 
