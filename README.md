@@ -457,7 +457,7 @@
 
  # Page Updater
 
-  With the release of 1.2.0, it is possible to update existing pages!
+  With the release of 1.2.0, it is now possible to update existing pages!
 
   Here's a brief tutorial on how to use it.
 
@@ -469,10 +469,22 @@
 
   The header is not needed for updating existing pages.
 
-  The input folder is for the location of putting the index/html file you want to update.
+  The input folder is for the location of putting ONLY the index/html file you want to update.
 
   Now, put photos into each folder like normal.
 
   Run the main script when ready.
 
-  
+  You will be asked for the existing photo count. If there are 18 photos that are on the current page, put 18. 
+
+  This is so the program doesn't crash and overlap existing photos with the new ones. 
+
+  ![image](https://github.com/Hopen111/HopenRXRTools/assets/147209436/eb8bb5f3-c60d-4e82-84f2-69aafa482e3d)
+
+  For return visit notes, list any changes that have happened. 
+
+  From there, it runs like the regular version of HopenRXRTools.
+
+  Once the program is done, the output folder will have the new photos and then you can put the new html file and photos with the original folder it came from.
+
+  Enjoy 40 extra minutes of your life!
