@@ -182,11 +182,11 @@
 
  Also very straightfoward. Copy and paste your photos and [`header`](#making-crossing-headers) into each folder that it belongs in.
 
- ![image](https://github.com/Hopen111/HopenRXRTools/assets/147209436/64f19cfc-ebf7-4941-bbc9-3989eed5909d)
+ ![image](https://github.com/Hopen111/HopenRXRTools/assets/147209436/a5f7f541-c0ca-4bba-a61d-5b9a970827da)
  
  For example, the header goes into the "Header" folder.
 
- And for the relay case, it goes in the "Relay_Case" folder.
+ And for the grade, it will go in the "Grade" folder.
 
  For all the northern signal photos, put them all into the "northern_signal" folder.
 
@@ -200,7 +200,7 @@
 
  You will be asked questions that the program cannot find on its own at the current moment. Such as DOT number, street name, etc.
 
- ![image](https://github.com/Hopen111/HopenRXRTools/assets/147209436/5df4a538-afa2-4753-a297-0b8a7869afcd)
+ ![image](https://github.com/Hopen111/HopenRXRTools/assets/147209436/21e6bcd4-ab23-4d53-8949-e157a1172d1c)
 
  There are a few tips and tutorials when the program is running which should help you when you get stuck.
 
@@ -218,6 +218,14 @@
  ![image](https://github.com/Hopen111/HopenRXRTools/assets/147209436/6c0b2a7e-b701-4277-a43a-5fd448ec2eec)
 
  HopenRXRTools allows for multiple railroads as well.
+
+ If the rail_logos page cannot be accessed, you can get the url for a railroad from an existing site page by right clicking the logo and selecting "Copy Image Address".
+
+ ![image](https://github.com/Hopen111/HopenRXRTools/assets/147209436/96770af9-c006-4ab6-9a08-add99aaac2c3)
+
+ Then take out the rest of the URL from "http://www.rxrsignals.com/Graphics/Rail_Logos/SQSC.png" to just the logo name "SQSC.png".
+
+ Input the final result.
 
  ## Processing Photos Warning
 
