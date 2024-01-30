@@ -23,6 +23,8 @@
  - [KompoZer](#kompozer)
    - [Fixing Typos and Other Small Edits](#fixing-typos-and-other-small-edits)
    - [Rearranging and Moving Photos](#rearranging-and-moving-photos)
+ - [Page Updater](#page-updater)
+   - [How To Use](#how-to-use)
 
  ## Setup
 
@@ -453,8 +455,24 @@
 
  And now, we have moved the images!
 
+ # Page Updater
 
+  With the release of 1.2.0, it is possible to update existing pages!
 
+  Here's a brief tutorial on how to use it.
 
- 
+ ## How To Use
 
+  First, make sure to clean out the folders with the "Remove Temporary Junk" script.
+
+  Next, notice a new input folder (and the header folder is gone).
+
+  The header is not needed for updating existing pages.
+
+  The input folder is for the location of putting the index/html file you want to update.
+
+  Now, put photos into each folder like normal.
+
+  Run the main script when ready.
+
+  
