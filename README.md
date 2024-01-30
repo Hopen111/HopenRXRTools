@@ -23,6 +23,7 @@
  - [KompoZer](#kompozer)
    - [Fixing Typos and Other Small Edits](#fixing-typos-and-other-small-edits)
    - [Rearranging and Moving Photos](#rearranging-and-moving-photos)
+   - [Change Date](#change-date)
  - [Page Updater](#page-updater)
    - [How To Use](#how-to-use)
 
@@ -456,6 +457,20 @@
  ![image](https://github.com/Hopen111/HopenRXRTools/assets/147209436/46d884db-bd37-40f9-a0e6-f3a7df002bef)
 
  And now, we have moved the images!
+
+ ## Change Date
+
+ In order to change the date, simply double left click the month or year. You should see this popup.
+
+ ![image](https://github.com/Hopen111/HopenRXRTools/assets/147209436/ab8244f2-7610-4db8-b70c-e7c7b438b5ea)
+
+ What matters is the end of the link. Notice the number "2" is February for month.
+
+ When you have changed it. Make sure the dimensions are correct by going to the "Dimensions" tab and clicking "Actual Size"
+
+ ![image](https://github.com/Hopen111/HopenRXRTools/assets/147209436/26f3bafd-1847-4a5e-91de-a8c93aeb9aba)
+
+ Once you have done this to the year, the date is changed!
 
  # Page Updater
 
