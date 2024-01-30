@@ -91,6 +91,8 @@
 
  Open the PSD file by clicking file, and then "Open" on the top left:
 
+ MAKE SURE TO CHOOSE THE CORRECT HEADER COLOR FOR THE CORRECT STATE!!! YOU CAN CHECK THIS BY GOING TO THE STATE PAGE ON THE SITE. IF YOU ARE MAKING A NEW STATE THEN CHOOSE ANY COLOR.
+
  ![image](https://github.com/Hopen111/HopenRXRTools/assets/147209436/6a76b788-f8f9-4fd3-be5b-0e11aeb823ee)
  
  You should see something like this.
