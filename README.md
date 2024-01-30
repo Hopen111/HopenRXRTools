@@ -233,13 +233,23 @@
 
  ![image](https://github.com/Hopen111/HopenRXRTools/assets/147209436/d0df7b17-767b-41ff-96ab-93fdbe376da4)
 
- This is the final test for the program basically. 
+ Make sure to worry when you see a red warning.
+
+ If there is a red warning, then you should investigate it and fix the issue. 
+ 
+ The possible errors include:
+
+ --Missing header.
+ --Duplicate output file name.
+ --Photos outside of track view and overview folders.
+
+ This is basically the final test for the program. 
  
  I recommend having your photos in a backup folder in case if something crashes the program or if there is a bug that also crashes the program.
 
- If you are ready, press ENTER twice to proceed.
+ If you are ready and have rectified any issues, press ENTER twice to proceed.
 
- Proccessing should take less than 15 seconds.
+ Proccessing should take less than 15 seconds, but it can be longer depending on how many photos are being processed. (duh)
 
  ## Track Views
 
@@ -265,7 +275,7 @@
 
  However it most likely won't.
 
- However link rules are simple:
+ Thankfully link rules are simple:
 
  https://www.rxrsignals.com/STATE/A-F/CITY/STREET/
 
@@ -284,6 +294,40 @@
  ![image](https://github.com/Hopen111/HopenRXRTools/assets/147209436/6eab67da-f789-43aa-999b-54dce8be682f)
 
  Repeat for the other side.
+
+ If this is too complicated, then you can try using ../ to move to another directory layer above.
+
+ We can use this to make a link. For example:
+
+ ../26(1)
+
+ Here are the rules for ../ link form:
+
+ If It (Next crossing) Is Just To Another Crossing In The Same City/Town, Just Add One: ../Road_Name
+ If It Leads To Another City, Add Two: ../../City_Name/Road_Name
+ If It Leads To Another City, And Is In Another Alphabetical Group, Such As A-F Or G-Q, 
+ Add Three: ../../../A-K/City_Name/Road_Name
+ If It Leads To Another State And It Isn't Different Letter Group, Add Three: ../../../State_Name/City_Name/Road_Name
+ If It Leads To Another State And Different Letter Group, Add Four: ../../../../State_Name/A-K/City_Name/Road_Name
+
+ Crossing Link Examples:
+
+ Cherry Grove Rd.
+ ../Cherry
+
+ 80th Ave
+ ../80
+
+ Barron St. (Different Town)
+ ../../Different_Town/Barron
+
+ Sohl Ave. #2
+ ../Sohl2
+
+ Waldron St. (Different Town And Different Alphabet Catagory)
+ ../../../A-K/Different_Town/Waldron
+
+ Now the link should be done!
 
  ## Photo Information
 
@@ -325,7 +369,7 @@
 
  ![image](https://github.com/Hopen111/HopenRXRTools/assets/147209436/9f44160b-b1f2-4cee-82ec-e8d5031b12fe)
 
- If there is no cantilever or gate on all the signals, leave the answer input empty and press ENTER instead of typing "None" and the table will not include the cantilever or gate.
+ If there is no cantilever, gate, or base on all the signals, leave the answer input empty and press ENTER instead of typing "None" and the table will not include the cantilever, gate, or base.
 
  if you want to type: 
 
@@ -357,7 +401,7 @@
 
  First, open the HTMl file from the page you made in the "Output" folder with "FILE, OPEN FILE".
 
- You should get some warnings or something. Just keep pressing OK until they go away.
+ You should get some warnings or something. Hold ESC and they will go away quickly.
 
  ![image](https://github.com/Hopen111/HopenRXRTools/assets/147209436/b1151e76-75fa-4266-a3fe-4c92cd2b420c)
 
