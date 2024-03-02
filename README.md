@@ -98,6 +98,8 @@
  
  You should see something like this.
 
+ Make sure to download the RoadGeek 2005 Series 6B and 6W font! https://www.fontspace.com/roadgeek-2005-font-f1747
+
  Next, edit the text to fit the street name (Don't worry about the text changing size when it is edited).
  
  Make sure to crop the header size to fit the text with the crop tool on the left side of the screen.
