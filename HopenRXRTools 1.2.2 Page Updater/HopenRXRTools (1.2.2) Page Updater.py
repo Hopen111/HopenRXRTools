@@ -123,6 +123,7 @@ except:
 """)
     0/0
 
+index = index.replace("</BODY>", "</body>")
 sub_string = "</body>"
 count_er=0
 start_index=0
