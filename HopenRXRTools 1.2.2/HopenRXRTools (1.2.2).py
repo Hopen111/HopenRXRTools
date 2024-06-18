@@ -281,7 +281,7 @@ if dot == "UNKNOWN" or dot == "Unknown" or dot == "unknown" or dot == "idk":
 face="Arial,Helvetica,Monaco"><font color="WHITE"><img alt=""
 src="http://www.rxrsignals.com/Graphics/DOT/DOT.png"><img
 style="width: 10px; height: 20px;" alt=""
-src="http://www.rxrsignals.com/Graphics/DOT/Blank.png"> <img
+src="http://www.rxrsignals.com/Graphics/DOT/Blank.png"><img
 style="width: 93px; height: 20px;" alt=""
 src="http://www.rxrsignals.com/Graphics/DOT/Unknown.png"></font></font></strong></td>
 </tr>"""
@@ -291,7 +291,7 @@ if dot == "N/A" or dot == "n/a" or dot == "Not Assigned" or dot == "not assigned
 face="Arial,Helvetica,Monaco"><font color="WHITE"><img alt=""
 src="http://www.rxrsignals.com/Graphics/DOT/DOT.png"><img
 style="width: 10px; height: 20px;" alt=""
-src="http://www.rxrsignals.com/Graphics/DOT/Blank.png"> <img
+src="http://www.rxrsignals.com/Graphics/DOT/Blank.png"><img
 style="width: 141px; height: 20px;" alt=""
 src="http://www.rxrsignals.com/Graphics/DOT/NOT_ASSIGNED.png"></font></font></strong></td>
 </tr>"""
